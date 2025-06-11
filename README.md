@@ -1,14 +1,1 @@
-streamlit
-chromadb
-langchain
-unstructured
-sentence-transformers
-openai
-langchain-openai
-langchain
-pypdf
-tiktoken
-faiss-cpu
-langchain-community
-PyPDF2
-langchain-experimental
+
